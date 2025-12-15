@@ -1,8 +1,8 @@
-# 👋 Hello! I'm Esra
+# 🙋🏻‍♀️ Hello! I'm Esra
 
 Welcome to my GitHub profile! I'm passionate about software development, web technologies, and open-source contributions.
 
-## 🚀 About Me
+## ✨ About Me ✨
 - 💻 Frontend Developer
 - 📚 Continuous learner
 - 🌟 Passionate about open-source projects
