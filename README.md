@@ -9,23 +9,23 @@ Welcome to my GitHub profile! I'm passionate about software development, web tec
 - 🎯 Always looking to improve my skills
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Java, TypeScript
+- **Languages**: JavaScript, PHP, GoLang
 - **Frontend**: HTML, CSS, React, Nextjs, Svelte
-- **Backend**: Node.js, Express, Django
+- **Backend**: Node.js, GoLang
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, VS Code
 
 
 ## 🎯 Current Focus
-- 🔨 Building scalable web applications
-- 📖 Learning new technologies
-- 🤝 Contributing to open-source projects
+- Building scalable web applications
+- Learning new technologies
+-  Contributing to open-source projects
 
 ## 📫 Get in Touch
-- 📧 Email: esrakellecii@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/esra-kellecii/
-- 🐦 Twitter: https://twitter.com/your_handle
-- 🌐 Portfolio: https://your-website.com
+- Email: esrakellecii@gmail.com
+- LinkedIn: https://www.linkedin.com/in/esra-kellecii/
+- X: https://x.com/esrakllci
+- Portfolio: https://macos-portfolio-eight.vercel.app/
 
 ## 📌 Featured Projects
 Check out my repositories below for more details on my work! 
